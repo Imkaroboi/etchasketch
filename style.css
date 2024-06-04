@@ -1,8 +1,19 @@
-* {
-    border: 2px solid green;
+html {
+    height: 100%;
+    width: 100%;
+}
+body { 
+    height: 100%;
+    width: 100%;
+    display: flex;
 }
 .container {
-width: 70px;
-height: 70px;
+width: 70%;
+height: 70%;
+border: 2px solid green;
+margin: auto;
+display: flex;
+flex-direction: row;
+justify-content: ;
 }
     
